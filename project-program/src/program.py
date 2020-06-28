@@ -14,10 +14,10 @@ def main():
     
 def print_header():
     
-    print(Fore.WHITE + '****************  MOOD TRACKER PROGRAM  ****************')
+    print(Fore.WHITE + '****************  PROJECT TEMPLATE PROGRAM  ****************')
     print(Fore.WHITE + '****************************************************************')
     print()
-    print("Welcome to the Mood Tracker Program!")
+    print("Welcome to the Project Template Program!")
     
 if __name__ == "__main__":
     main()
